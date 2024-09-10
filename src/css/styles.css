@@ -9,3 +9,17 @@ body {
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+#content {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+#content > .title {
+    margin: 16px 0px 16px 0px;
+}
+

@@ -1,0 +1,5 @@
+/* Menu */
+.menu td, .menu th {
+    border: 1px solid white;
+    padding: 8px;
+}
